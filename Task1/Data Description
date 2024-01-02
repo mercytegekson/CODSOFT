@@ -1,0 +1,13 @@
+Survival = 1 or 0 1(Yes),0(No)
+pclass Ticket class as 1st,2nd and 3rd
+1 = 1st 
+2 = 2nd 
+3 = 3rd 
+sibsp refers to the number of siblings /spouses aboard the Titanic
+Parch; refers to the number of parents / children aboard the Titanic
+Ticket ; Ticket number
+Fare ; Passenger fare
+Age = age of passenger
+Sex = sex of passenger
+Cabin ; cabin number
+Embarked ; Port of Embarkation  C(Cherboug) , Q(Queenstown) ,S(Southampton)
