@@ -1,6 +1,6 @@
 # CODSOFT
 
-# Titanic Survival Prediction with 
+# Titanic Survival Prediction 
 ![Image Alt Text](https://github.com/mercytegekson/CODSOFT/blob/main/Task1/Titanic.png)
 
 # Titanic Survival Prediction
@@ -11,7 +11,9 @@
 ## Problem statement
 In the aftermath of the Titanic incident, where the ship tragically sank after colliding with an iceberg, our objective is to develop a predictive model for passenger survival. Leveraging various features such as demographic information, ticket class, and boarding location, our aim is to create a model that can estimate the likelihood of a passenger surviving the disaster. By analyzing and understanding the patterns within the dataset, we seek to contribute to the broader understanding of factors influencing passenger outcomes during this historic maritime event.
 The project's aim is to:
+
 •	Uncover meaningful patterns associated with Titanic Survival.
+
 •	Create Machine Learning based predictive models that can show likelihood of a passenger survivig the Titanic incident.
 
 
